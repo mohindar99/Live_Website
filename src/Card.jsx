@@ -11,7 +11,7 @@ function Card(props) {
             <h5 className="card-title">{props.title}</h5>
             <p className="card-text">{props.desc}</p>
             <NavLink to="" className="btn btn-primary">
-              Go somewhere
+             Lets Start
             </NavLink>
           </div>
         </div>
