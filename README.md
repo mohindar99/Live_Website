@@ -4,10 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-The main agenda of this projet is to create a complete front-end developing page and make it live using the github pages . Almost all the requirements of the font-end developing page had been added to this project. Moreover it is live currently which can be accessed using the following link .
+The main agenda of this projet is to create a complete front-end developing page and make it live using the github pages . Almost all the requirements of the font-end developing page had been added to this project. We have also included the bootstrap for more styling and easablity of the work. Moreover it is live currently which can be accessed using the following link .
 
-link : 
+link : https://mohindar99.github.io/Live_Website/
 
+## Instructions 
+In order to work on it you must first 
+* Download the project in your local desktop .
+* Install all the dependencies require for the project by running "npm install" command in your local desktop .
+* Run the project using "npm start" command .
 
 ## Available Scripts
 
