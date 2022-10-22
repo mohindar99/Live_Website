@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Getting Started with Live_Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+
+The main agenda of this projet is to create a complete front-end developing page and make it live using the github pages . Almost all the requirements of the font-end developing page had been added to this project. Moreover it is live currently which can be accessed using the following link .
+
+link : 
+
 
 ## Available Scripts
 
